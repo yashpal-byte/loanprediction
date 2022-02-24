@@ -1,0 +1,10 @@
+#loan prediction problem analytics vidhya
+test file
+train file
+python (jupyter notebook)
+tableau
+
+#dependencies in Python
+Pandas
+numpy
+matplotlib
